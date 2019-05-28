@@ -1,0 +1,40 @@
+{
+  "resources": [
+    "../../assets/audio/sfx.ogg",
+    "../../assets/audio/sfx.m4a",
+    "../../assets/audio/sfx.mp3",
+    "../../assets/audio/sfx.ac3"
+  ],
+  "spritemap": {
+    "pc_boop": {
+      "start": 0,
+      "end": 0.098980,
+      "loop": false
+    },
+    "pc_mark": {
+      "start": 1,
+      "end": 1.097430,
+      "loop": false
+    },
+    "pc_xmark": {
+      "start": 2,
+      "end": 2.160300,
+      "loop": false
+    },
+    "pc_erase": {
+      "start": 3,
+      "end": 3.438350,
+      "loop": false
+    },
+    "pc_mistake": {
+      "start": 4,
+      "end": 4.322250,
+      "loop": false
+    },
+    "pc_clear": {
+      "start": 5,
+      "end": 7.635440,
+      "loop": false
+    }
+  }
+}
